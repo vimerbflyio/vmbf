@@ -1,8 +1,8 @@
-# VimerBFlyIO
+# VimerBFlyio
 
-[VimerBFlyIO](https://vimerbflyio.com/) is an AI-powered Digital Visibility Platform that helps organizations discover, monitor, prioritize, and resolve revenue-impacting issues across their websites and digital assets.
+[VimerBFlyio](https://vimerbflyio.com/) is an AI-powered Digital Visibility Platform that helps organizations discover, monitor, prioritize, and resolve revenue-impacting issues across their websites and digital assets.
 
-Combining automated crawling, technical analysis, visual governance, asset observability, and AI-driven intelligence, VimerBFlyIO transforms complex digital signals into actionable recommendations that improve visibility, performance, user experience, and business outcomes.
+Combining automated crawling, technical analysis, visual governance, asset observability, and AI-driven intelligence, VimerBFlyio transforms complex digital signals into actionable recommendations that improve visibility, performance, user experience, and business outcomes.
 
 ## Features
 
@@ -61,5 +61,5 @@ To become the intelligence layer for digital visibility, helping businesses unde
 
 ---
 
-**[VimerBFlyIO](https://vimerbflyio.com/)**  
+**[VimerBFlyio](https://vimerbflyio.com/)**  
 *Observe. Understand. Optimize. Grow.*
